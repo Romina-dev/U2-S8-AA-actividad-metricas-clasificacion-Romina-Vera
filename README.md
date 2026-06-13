@@ -69,4 +69,4 @@ Este conjunto de datos es ampliamente utilizado para la evaluación de algoritmo
 
 ## Resumen de Resultados
 
-El modelo de Regresión Logística obtuvo una exactitud del 95.6% y un AUC-ROC de 0.995, demostrando una excelente capacidad para diferenciar tumores benignos y malignos. La validación cruzada evidenció un rendimiento estable, mientras que la optimización de hiperparámetros permitió mejorar el desempeño del modelo y analizar el efecto de distintos umbrales de decisión sobre las métricas de clasificación.
+El modelo de Regresión Logística obtuvo una exactitud del 95.6% y un AUC-ROC de 0.995, mostrando una excelente capacidad para diferenciar tumores benignos y malignos. En validación cruzada se puede ver un rendimiento estable, mientras que la optimización de hiperparámetros permitió mejorar el desempeño del modelo y analizar el efecto de distintos umbrales de decisión sobre las métricas de clasificación.
