@@ -50,8 +50,7 @@ Este conjunto de datos es ampliamente utilizado para la evaluación de algoritmo
 
 ### Entorno de trabajo
 
-* Google Colab
-* Jupyter Notebook
+* Google Colab, Jupyter Notebook
 
 ### Lenguaje de programación
 
@@ -59,11 +58,7 @@ Este conjunto de datos es ampliamente utilizado para la evaluación de algoritmo
 
 ### Bibliotecas utilizadas
 
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-Learn
+* Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
 
 ---
 
