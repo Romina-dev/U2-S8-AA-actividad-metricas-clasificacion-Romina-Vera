@@ -42,7 +42,7 @@ Este conjunto de datos es ampliamente utilizado para la evaluación de algoritmo
 * Evaluación mediante Accuracy, Precision, Recall, F1-Score y AUC-ROC.
 * Aplicación de validación cruzada K-Fold.
 * Optimización de hiperparámetros mediante GridSearchCV y RandomizedSearchCV.
-* Ajuste del umbral de decisión y análisis de su impacto en las métricas de clasificación.
+* Ajuste del umbral de decisión.
 
 ---
 
