@@ -69,6 +69,4 @@ Este conjunto de datos es ampliamente utilizado para la evaluación de algoritmo
 
 ## Resumen de Resultados
 
-Los resultados obtenidos evidenciaron un alto desempeño del modelo de Regresión Logística en la clasificación de tumores benignos y malignos. La validación cruzada mostró estabilidad en el rendimiento del clasificador y la optimización de hiperparámetros permitió identificar configuraciones con mejores resultados.
-
-Asimismo, el análisis del umbral de decisión permitió observar cómo varían la Precisión y el Recall según el criterio de clasificación utilizado, demostrando la importancia de seleccionar adecuadamente el umbral de decisión de acuerdo con el contexto del problema.
+El modelo de Regresión Logística obtuvo una exactitud del 95.6% y un AUC-ROC de 0.995, demostrando una excelente capacidad para diferenciar tumores benignos y malignos. La validación cruzada evidenció un rendimiento estable, mientras que la optimización de hiperparámetros permitió mejorar el desempeño del modelo y analizar el efecto de distintos umbrales de decisión sobre las métricas de clasificación.
